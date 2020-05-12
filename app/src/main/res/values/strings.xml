@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WheatInfo</string>
+    <string name="enter_year">Enter year</string>
+    <string name="enter_production">Enter production</string>
+    <string name="enter_yield">Enter yield</string>
+    <string name="enter_subject">Enter subject</string>
+    <string name="enter_text">Enter text</string>
+
+    <string name="btn_add">Add</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_note">Note</string>
+
+    <string name="empty_list_text">No wheat found</string>
+    <string name="add_record">Add Wheat</string>
+
+    <string name="dev">Developer</string>
+    <string name="graph">Graph</string>
+    <string name="more">More 22 mln tons</string>
+    <string name="average">Average info</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
